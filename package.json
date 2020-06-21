@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/rhildred/es6test#readme",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "nodemon": "^2.0.4"
   }
 }

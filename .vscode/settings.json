@@ -1,3 +1,32 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "Astro's",
+        "Bhima's",
+        "Cineplex",
+        "Conred",
+        "Doon",
+        "Grabel",
+        "Grebel",
+        "Laurelwood",
+        "Madina",
+        "Mainor",
+        "Renison",
+        "Warung",
+        "Westmount",
+        "gamestart",
+        "mainorend",
+        "uname",
+        "universityave"
+    ],
+    "cSpell.ignoreWords": [
+        "arby's",
+        "meadowcroft",
+        "n",
+        "n meadowcroft",
+        "n oculys",
+        "oculys",
+        "playagain",
+        "westvale"
+    ]
 }
